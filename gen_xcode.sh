@@ -1,0 +1,1 @@
+/Applications/CMake.app/Contents/bin/cmake -S . -B ./build_xcode -G Xcode -DBUILD_TESTING=ON
